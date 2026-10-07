@@ -2,11 +2,11 @@
 
 # Alexander Palombi-Long
 
-### UC Santa Barbara | Computer Engineering | Software Development & AI
+### UC Santa Barbara | Computer Engineering | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B9D83&center=true&vCenter=true&width=600&lines=Building+Useful+Software;Web+Development+%2B+API+Integrations;Exploring+AI+Applications" alt="Building useful software, web development and API integrations, exploring AI applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B9D83&center=true&vCenter=true&width=600&lines=Computer+Engineering+at+UCSB;Pursuing+Software+Engineering;Learning+Through+Building" alt="Computer Engineering at UCSB, pursuing software engineering, learning through building" />
 
-I’m a UCSB student interested in building software that solves practical problems. My experience spans patient intake workflows, frontend development, and control software. I also tutor math and enjoy exploring the intersection of programming, mathematics, and AI.
+I’m a Computer Engineering student at UC Santa Barbara pursuing a career in software engineering. I’m developing my programming and problem-solving skills through coursework and hands-on projects, and I’m eager to learn and contribute as part of a software team.
 
 **Seeking Summer 2027 software engineering internships.**
 
@@ -18,38 +18,32 @@ I’m a UCSB student interested in building software that solves practical probl
 
 ---
 
-## Featured Project: Moda Marketing
+## Projects
+
+### MIT BWSI · Quantum Variational Classifier
+
+Built a variational quantum classifier during the MIT Beaver Works Summer Institute’s Quantum Software program. Applied quantum feature encoding, parameterized circuits, and classical optimization to classify data from the Palmer Penguins dataset.
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-8B9D83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apalombilong/Marketing-Services)
+[![View Project](https://img.shields.io/badge/View_Project-8B9D83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chemystery09/quantum-variational-classifier)
+
+![Python](https://img.shields.io/badge/Python-8B9D83?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
-### A responsive website for creative services
+### Robotic Arm · Control Software
 
-**Moda Marketing** presents design and advertising work through a services page, visual portfolio, and embedded project inquiry form.
-
-- **Responsive layouts** — service cards and galleries adapt across screen sizes.
-- **Section navigation** — fixed navigation and smooth scrolling connect the page’s sections.
-- **Visual design** — a dark theme, gradients, and hover states built with Tailwind utilities.
-- **Project inquiries** — an embedded Google Form provides a contact workflow.
+Built a six-servo robotic arm for ECE 5 at UCSB and developed Arduino control software for serial commands, incremental servo motion, angle tracking, and homing.
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-8B9D83?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8B9D83?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![View Project](https://img.shields.io/badge/View_Project-8B9D83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apalombilong/arduino_robotic_arm)
+
+![C++](https://img.shields.io/badge/C%2B%2B-8B9D83?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-8B9D83?style=flat-square&logo=arduino&logoColor=white)
 
 </div>
-
----
-
-## More Projects
-
-| Project | Software focus | Stack |
-| --- | --- | --- |
-| [Robotic Arm Controller](https://github.com/apalombilong/arduino_robotic_arm) | Serial commands, incremental motion, angle tracking, and homing for six servo channels | Arduino C++, I²C, PCA9685 |
-| [Signal Weekly](https://github.com/apalombilong/News-Article) | Editorial layout, semantic HTML, and custom CSS typography | HTML, CSS |
 
 ---
 
@@ -58,10 +52,6 @@ I’m a UCSB student interested in building software that solves practical probl
 ### MDs by the Sea · Patient Workflow Software
 
 Worked on patient intake forms and API integrations for workflows used by doctors and patients. Tested form submission paths and outcomes to check how the workflow handled different inputs.
-
-### MIT Beaver Works Summer Institute · Quantum Software
-
-Built a variational quantum classifier using the Palmer Penguins dataset during the summer program. Explored quantum feature encoding, parameterized circuits, and classical optimization.
 
 ### Upchieve · Math Tutoring
 
@@ -98,7 +88,7 @@ Help students understand mathematical concepts through step-by-step explanations
 
 ### Let’s Connect
 
-Interested in software engineering internships, useful AI applications, and opportunities to build with a team.
+Interested in software engineering internships and opportunities to learn, collaborate, and build useful software.
 
 [![Get in Touch](https://img.shields.io/badge/Get_in_Touch-8B9D83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexander.palombi@gmail.com)
 
