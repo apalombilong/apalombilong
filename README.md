@@ -20,6 +20,20 @@ I’m a Computer Engineering student at UC Santa Barbara pursuing a career in so
 
 ## Projects
 
+### Quantum Variational Classifier · MIT BWSI
+
+Collaborated on a team project to design and implement a four-qubit classifier for penguin measurements, combining data preprocessing, quantum feature encoding, and COBYLA optimization.
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-8B9D83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apalombilong/quantum-variational-classifier)
+
+![Python](https://img.shields.io/badge/Python-8B9D83?style=flat-square&logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-8B9D83?style=flat-square&logo=qiskit&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8B9D83?style=flat-square&logo=scipy&logoColor=white)
+
+</div>
+
 ### Robotic Arm · Control Software
 
 Built a six-servo robotic arm for ECE 5 at UCSB and developed Arduino control software for serial commands, incremental servo motion, angle tracking, and homing.
