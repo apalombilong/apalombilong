@@ -20,18 +20,6 @@ I’m a Computer Engineering student at UC Santa Barbara pursuing a career in so
 
 ## Projects
 
-### MIT BWSI · Quantum Variational Classifier
-
-Built a variational quantum classifier during the MIT Beaver Works Summer Institute’s Quantum Software program. Applied quantum feature encoding, parameterized circuits, and classical optimization to classify data from the Palmer Penguins dataset.
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_Project-8B9D83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chemystery09/quantum-variational-classifier)
-
-![Python](https://img.shields.io/badge/Python-8B9D83?style=flat-square&logo=python&logoColor=white)
-
-</div>
-
 ### Robotic Arm · Control Software
 
 Built a six-servo robotic arm for ECE 5 at UCSB and developed Arduino control software for serial commands, incremental servo motion, angle tracking, and homing.
@@ -44,18 +32,6 @@ Built a six-servo robotic arm for ECE 5 at UCSB and developed Arduino control so
 ![Arduino](https://img.shields.io/badge/Arduino-8B9D83?style=flat-square&logo=arduino&logoColor=white)
 
 </div>
-
----
-
-## Experience
-
-### MDs by the Sea · Patient Workflow Software
-
-Worked on patient intake forms and API integrations for workflows used by doctors and patients. Tested form submission paths and outcomes to check how the workflow handled different inputs.
-
-### Upchieve · Math Tutoring
-
-Help students understand mathematical concepts through step-by-step explanations and problem solving.
 
 ---
 
